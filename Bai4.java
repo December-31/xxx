@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Bai4 {
@@ -12,3 +13,5 @@ public class Bai4 {
         System.out.println("Tong = " + sum);
     }
 }
+uyhfvuyfvuvgb
+
