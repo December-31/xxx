@@ -13,4 +13,4 @@ public class Bai1 {
             System.out.println("So 0");
         }
     }
-}
+}hvyvvtvvtvy
