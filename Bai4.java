@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Bai4 {
@@ -13,3 +14,4 @@ public class Bai4 {
     }
 }
 uyhfvuyfvuvgb
+
