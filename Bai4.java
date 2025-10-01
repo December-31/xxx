@@ -12,3 +12,4 @@ public class Bai4 {
         System.out.println("Tong = " + sum);
     }
 }
+uyhfvuyfvuvgb
